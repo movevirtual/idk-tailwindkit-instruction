@@ -1,10 +1,10 @@
 ## This is the file structure of the project.
 
-![idk-6-file-structure](https://github.com/itsarghyadas/idk-tailwind-6/assets/89768406/ff979605-1f46-4d12-99a3-81b47660fc90)
+![idk-6-file-structure](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/739ac0f8-efee-4def-828b-0b0a707320fb)
 
 ## Additionally, I have provided an image preview that breaks down the structure for better understanding.
 
-![idk-6-preview](https://github.com/itsarghyadas/idk-tailwind-6/assets/89768406/807c7cd3-ffd3-46d0-be36-e7863bc7a17a)
+![idk-6-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/3b453521-6359-4824-9787-8c3a1a328f83)
 
 ### To run the project on localhost, please follow these steps:
 
