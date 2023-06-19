@@ -1,10 +1,10 @@
 ## This is the file structure of the project.
 
-![idk-47-file-structure](https://github.com/movevirtual/idk-tailwindkit-47/assets/136367781/6ebc09ad-3458-48c7-8700-3a824d8ee8ec)
+![idk-47-file-structure](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/139fd0fc-1f69-4a76-9679-51452ec8f2dd)
 
 ## Additionally, I have provided an image preview that breaks down the structure for better understanding.
 
-![idk-47-preview](https://github.com/movevirtual/idk-tailwindkit-47/assets/136367781/6cd3e795-7da6-45a5-985d-0761afa45aa5)
+![idk-47-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/2dd949cc-9653-40f0-80d0-929209ac6100)
 
 ### To run the project on localhost, please follow these steps:
 
