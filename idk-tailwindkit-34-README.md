@@ -1,6 +1,6 @@
 ## This is the file structure of the project.
 
-![idk-34-file-structure png](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/e4405d59-f3a8-442b-a69d-975cce7f5891)
+![idk-34-file-structure](https://github.com/movevirtual/idk-tailwindkit-34/assets/136367781/d03ad673-3aaf-467c-a894-26a4a2568abc)
 
 ## Additionally, I have provided an image preview that breaks down the structure for better understanding.
 
