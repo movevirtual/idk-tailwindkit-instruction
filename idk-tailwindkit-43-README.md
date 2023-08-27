@@ -6,6 +6,9 @@
 
 ![idk-42-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/329c9242-70d2-48ae-b124-f776c4a6d747)
 
+## Open-Graph image
+![idk-43-og](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/371bcba0-c60b-4d91-bba8-a6fdee2bb436)
+
 ### To run the project on localhost, please follow these steps:
 
 1: Open the terminal and navigate to the `client` folder.
