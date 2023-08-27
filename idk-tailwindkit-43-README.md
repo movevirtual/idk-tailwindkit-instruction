@@ -7,7 +7,8 @@
 ![idk-42-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/329c9242-70d2-48ae-b124-f776c4a6d747)
 
 ## Open-Graph image
-![idk-43-og](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/371bcba0-c60b-4d91-bba8-a6fdee2bb436)
+
+![idk-43-og](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/6adfb6d8-035e-4a00-9d80-96467c704116)
 
 ### To run the project on localhost, please follow these steps:
 
