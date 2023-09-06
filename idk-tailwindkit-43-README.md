@@ -1,10 +1,10 @@
 ## This is the file structure of the project.
 
-![idk-42-file-structure](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/9268a158-ebfa-44f2-9c87-9455afe36232)
+![idk-43-file-structure](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/7087f5e5-619f-4d35-b2a8-91d5b1a53145)
 
 ## Additionally, I have provided an image preview that breaks down the structure for better understanding.
 
-![idk-42-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/329c9242-70d2-48ae-b124-f776c4a6d747)
+![idk-43-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/decaadd3-da9f-4616-8fa7-481bde6aa92c)
 
 ## Open-Graph image
 
