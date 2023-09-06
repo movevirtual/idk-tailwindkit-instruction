@@ -4,7 +4,7 @@
 
 ## Additionally, I have provided an image preview that breaks down the structure for better understanding.
 
-![idk-26-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/072f7b42-51c8-4409-a463-e4b6242273f9)
+![idk-26-preview](https://github.com/movevirtual/idk-tailwindkit-instruction/assets/136367781/83ee4c50-d0b9-4021-a76c-8fe633fd90bf)
 
 ### To run the project on localhost, please follow these steps:
 
